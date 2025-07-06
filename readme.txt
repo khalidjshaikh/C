@@ -1,4 +1,10 @@
-macOS
+macOS 15.5 M1
+
+gcc --version
+Apple clang version 17.0.0 (clang-1700.0.13.5)
+Target: arm64-apple-darwin24.5.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
 
 brew install gcc
 gcc hello-world.c; ./a.out
