@@ -1,3 +1,5 @@
+macOS
+
 brew install gcc
 gcc hello-world.c; ./a.out
 gcc single\ core\ -\ count\ to\ 4.3\ billion.c; time ./a.out
